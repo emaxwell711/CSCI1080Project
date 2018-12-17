@@ -1,0 +1,42 @@
+
+img {
+  max-width: 75%;
+  height: auto;
+
+}
+
+body {
+	text-align: center;
+	font-size: 3vw;
+}
+
+h1 {
+	font-style: inherit;
+	font-size: 12vw;
+	font-family: sans-serif;
+}
+
+.linkleft {
+	float: left;
+}
+
+.linkright {
+	float: center;
+}
+
+.linkcenter{
+	float: right;
+}
+
+a {
+	transition: color 0.25s ease, border-bottom-color 0.25s ease;
+    border-bottom: dotted 1px;
+    color: inherit;
+    text-decoration: none;
+}
+p,form {
+	font-family: sans-serif;
+}
+form {
+	font-size: 2vw;
+}
